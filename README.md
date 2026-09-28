@@ -1,9 +1,9 @@
 
 ## Hi there 👋, My name is Mr. BDKR28
-### I am alone hacker.
-![I am alone hacker.](https://bestanimations.com/media/bangladesh/533000752bangladesh-flag-waving-gif-animation-8.gif)
+### I am alone.
+![I am alone .](https://bestanimations.com/media/bangladesh/533000752bangladesh-flag-waving-gif-animation-8.gif)
 
-I am a normal person.🤫 I am a simple coder.🤫 I am a YouTuber.🤨 I am a student. 😍 I am a black man in a white mask.😎 I am a noob Hacker.😘
+I am a normal person.🤫 I am a simple coder.🤫 I am a YouTuber.🤨 
 
 Skills: HTML / PYTHON / PHP
 
@@ -12,7 +12,6 @@ Skills: HTML / PYTHON / PHP
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Php 
 - 💬 Ask me about Python 
-- 📫 How to reach me: Try and try 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bokxud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ctfsolution)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/BD2021KR)  
